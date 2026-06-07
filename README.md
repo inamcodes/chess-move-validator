@@ -1,5 +1,6 @@
 # Chess Move Validator
 
+<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/34dd1c80-0de6-4af7-a025-15a87538383f" />
 A pure Java library that validates chess moves for all piece types according to standard FIDE rules. It is **stateless and side-effect free** — it never mutates board or piece state, making it safe to embed in any chess engine, GUI, or game server.
 
 ---
